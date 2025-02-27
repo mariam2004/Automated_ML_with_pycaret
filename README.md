@@ -31,11 +31,3 @@ pip install -r requirements.txt
 streamlit run app.py  
 ```
 
-## 🖥️ Screenshots  
-🔹 Example interface showcasing dataset upload, model training, and results visualization.
-
-![AutoStreamML UI](https://example.com/screenshot.png)  
-
-## 📜 License  
-This project is licensed under the MIT License. Feel free to modify and distribute it! 🚀
-
